@@ -1,2 +1,2 @@
 # desafiosoma1
-desafio somatório 
+Desafio Somatório em Java Script.
